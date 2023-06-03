@@ -16,3 +16,7 @@ He probado como escribir encabezados
 a="datos"
 print(a)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
